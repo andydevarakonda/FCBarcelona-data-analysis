@@ -14,7 +14,7 @@ Our dataset is the complete 2018/2019 La Liga Spanish football league season, an
 ## Team Members
 
 - Sheel Patel: I am a huge soccer and basketball fan, and I am in 4th  year computer science! (Starting in fall I will be).
-- Anirudh Deverakonda: I am a 4th year engineering student, and a huge Liverpool FC fan!
+- Anirudh Devarakonda: I am a 4th year engineering student, and a huge Liverpool FC fan!
 - Vrushank Kekre: I am a 4th year engineering student who is a huge fan of The Weeknd!
 
 ## References
